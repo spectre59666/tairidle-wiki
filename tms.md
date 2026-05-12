@@ -6,7 +6,7 @@ All 171 TMs and where to obtain them. Each TM has exactly one source.
 - **Shop** — purchased from a city shop (requires the listed badge count)
 - **Gym** — awarded by defeating a gym leader for the first time
 - **Area reward** — earned by completing all trainer battles in an area
-- **Wild drop** — rare drop (1/100) from defeating wild Pokémon in that area
+- **Wild drop** — rare drop (1/500) from defeating wild Pokémon in that area
 
 | # | TM | Source |
 |---|-----|--------|
