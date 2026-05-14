@@ -25,6 +25,13 @@ export default defineConfig({
         text: 'Items',
         items: [
           { text: 'TM Locations', link: '/tms' },
+          { text: 'Shop Items Locations', link: '/shop' },
+        ],
+      },
+      {
+        text: 'Pokémon',
+        items: [
+          { text: 'Pokémon List', link: '/evolution' },
         ],
       },
       {
