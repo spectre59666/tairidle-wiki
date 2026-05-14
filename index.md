@@ -15,7 +15,7 @@ hero:
     - theme: alt
       text: Items locations in shops
       link: /shop
-      - theme: alt
+    - theme: alt
       text: Special Evolutions Methods
       link: /evolution
 
