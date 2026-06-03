@@ -64,7 +64,7 @@ It seems there is also a part of the riddle that use some kind of *alphabet*.
 
 
 
-### Regis Locations :
+## Regis Locations :
 After you're done with making the *<u>Titans</u>* appear, you may now want to catch them ! Right ? 
 
 One is said to be hiding in a *<u>pair of islands</u>*, an other one is sleeping in a a *<u>rugged</u>* and *<u>craggy</u>* area. Then next one is resting among *<u>Digletts</u>* and *<u>Dugtrios</u>*. Then there is one surrounded by an immense *<u>power source</u>*. And lastly, one is dormant in a *<u>Unknown Dungeon</u>*, somewhere <u>mystic</u>.
@@ -97,7 +97,7 @@ One is said to be hiding in a *<u>pair of islands</u>*, an other one is sleeping
 
 
 ## The Desert :
-The next riddle is very slit and sandy , it says *"Beyond the door stretches a vast desert of chuming, raging sand — the winds are ferocious and impassable on foot. It looks as though only a Pokémon that commands the sand itself could make it safe to venture through."*
+The next riddle is very slit and sandy, it says *"Beyond the door stretches a vast desert of chuming, raging sand — the winds are ferocious and impassable on foot. It looks as though only a Pokémon that commands the sand itself could make it safe to venture through."*
 That sounds like one hell of a sandstorm.
 
 <details>
@@ -130,7 +130,7 @@ The riddle says *"A blinding light floods in the from the western door. The air 
 
 <details>
 <summary> <b>Hint 4</b> : </summary>
-- At last, you need a pokémon, or the same one, to learn <u>Sweet Scent</u> to be able to enter the <u><b>Flower Garden</u> ! Welcome !</b> 
+- At last, you need a pokémon, or the same one, to learn <u>Sweet Scent</u> to be able to enter the <b><u>Flower Garden</u> ! Welcome !</b> 
 </details>
 
 
